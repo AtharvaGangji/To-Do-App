@@ -63,11 +63,11 @@ def insert_item():
     my_list.insert(END, got_input)
     entry_box.delete(0, END)
 
-# ---------------------------------------------------------------------- Function for deleting item
+# ---------------------------------------------------------------------- Function for deleting list
 
 
 def delete_item():
-    pass
+    my_list.delete(0, END)
 
 # ---------------------------------------------------------------------- Function for saving item
 
