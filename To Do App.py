@@ -73,7 +73,7 @@ def delete_item():
 
 
 def save_item():
-    pass
+    pass #starting
 
 # ---------------------------------------------------------------------- Function for removing item
 
